@@ -6,10 +6,10 @@ Score Grade
 <br>
 <table>
   <tr> <td> >= 0.9 A </td></tr>
-  <tr> >= 0.8 B</tr>
-  <tr> >= 0.7 C</tr>
-  <tr> >= 0.6 D</tr>
-  <tr> < 0.6 F</tr>
+  <tr> <td> >= 0.8 B </td></tr>
+  <tr> <td> >= 0.7 C </td></tr>
+  <tr> <td> >= 0.6 D </td></tr>
+  <tr> <td> < 0.6 F </td></tr>
 </table>
   <br>
 If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
