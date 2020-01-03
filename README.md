@@ -5,7 +5,7 @@ Write a program to prompt for a score between 0.0 and 1.0. If the score is out o
 Score Grade
 <br>
 <table>
-  <tr> >= 0.9 A</tr>
+  <tr> <td> >= 0.9 A </td></tr>
   <tr> >= 0.8 B</tr>
   <tr> >= 0.7 C</tr>
   <tr> >= 0.6 D</tr>
