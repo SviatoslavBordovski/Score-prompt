@@ -2,9 +2,10 @@
 
 Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error. If the score is between 0.0 and 1.0, print a grade using the following table:
 <br>
-Score Grade
-<br>
 <table>
+  
+  <th> Score Grade </th>
+  
   <tr> <td> >= 0.9 A </td></tr>
   <tr> <td> >= 0.8 B </td></tr>
   <tr> <td> >= 0.7 C </td></tr>
