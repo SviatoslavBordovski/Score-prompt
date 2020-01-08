@@ -1,4 +1,4 @@
-score = input("Enter Score: ")  
+score = input("Enter Score: ")
 
 scr = float(score)
 
